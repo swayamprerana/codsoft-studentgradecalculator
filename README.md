@@ -1,1 +1,1 @@
-# codsoft-studentgradecalculator
+#student-grade-calculator
